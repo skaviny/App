@@ -1,5 +1,6 @@
 import streamlit as st
-from module import analysis, visualize
+from module import analysis
+from module import visualize
 
 st.title("Student Performance Dashboard")
 
